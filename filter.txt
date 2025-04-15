@@ -1,3 +1,9 @@
 0.0.0.0 *.tplinkcloud.com
 0.0.0.0 *.tplinkra.com
 0.0.0.0 *.tplinknbu.com
+0.0.0.0 use1-api.tplinkra.com
+0.0.0.0 aps1-api.tplinkra.com
+0.0.0.0 security.iot.i.tplinknbu.com
+0.0.0.0 n-aps1-devs.tplinkcloud.com
+0.0.0.0 n-deventry.tplinkcloud.com
+0.0.0.0 aps1-device-cloudgateway.iot.i.tplinknbu.com
