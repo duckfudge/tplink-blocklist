@@ -9,4 +9,5 @@
 0.0.0.0 aps1-device-cloudgateway.iot.i.tplinknbu.com
 0.0.0.0 analytics.tplinkcloud.com
 0.0.0.0 n-devs-gw.tplinkcloud.com
+0.0.0.0 n-deventry-gw.tplinkcloud.com
 0.0.0.0 n-aps1-devs-gw.tplinkcloud.com
