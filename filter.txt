@@ -1,12 +1,19 @@
+# Wildcards
 0.0.0.0 *.tplinkcloud.com
 0.0.0.0 *.tplinkra.com
 0.0.0.0 *.tplinknbu.com
+
+# tplinkra.com
 0.0.0.0 use1-api.tplinkra.com
 0.0.0.0 aps1-api.tplinkra.com
+
+# tplinknbu.com
 0.0.0.0 security.iot.i.tplinknbu.com
+0.0.0.0 aps1-device-cloudgateway.iot.i.tplinknbu.com
+
+# tplinkcloud.com
 0.0.0.0 n-aps1-devs.tplinkcloud.com
 0.0.0.0 n-deventry.tplinkcloud.com
-0.0.0.0 aps1-device-cloudgateway.iot.i.tplinknbu.com
 0.0.0.0 analytics.tplinkcloud.com
 0.0.0.0 n-devs-gw.tplinkcloud.com
 0.0.0.0 n-deventry-gw.tplinkcloud.com
